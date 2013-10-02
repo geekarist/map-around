@@ -17,8 +17,9 @@ SPEC
 	- Formule : θ = atan2(sin(Δλ).cos(φ2), cos(φ1).sin(φ2) − sin(φ1).cos(φ2).cos(Δλ))
 	- Où λ = longitude, φ = latitude
 	- 2 place de la Défense
-		- φ2 = xx, λ2 = xx, Δλ = xx - xx = xx
-		- φ1 = xx
+		- φ2 = 48,89388, λ2 = 2,24014, Δλ = 0,14534
+		- φ1 = 48,85845, λ1 = 2,38548
+		- 
 - Calculer le temps de trajet depuis le centre cf. [ratp.info](http://ratp.info)
 - Tracer un cercle dont le rayon est proportionnel au temps de trajet
 - Utiliser l'azimut pour tracer un point sur le cercle
