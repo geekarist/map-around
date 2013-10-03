@@ -1,6 +1,10 @@
 SPEC
 ====
 
+# Géocodage d'une adresse
+
+Nominatim : [doc](http://wiki.openstreetmap.org/wiki/Nominatim), [web](http://nominatim.openstreetmap.org)
+
 # Jeux de données 
 
 - **Centre** : 9 rue de la Croix Faubin : (lat, lon) = (φ, λ) = (48,85845, 2,38548)
