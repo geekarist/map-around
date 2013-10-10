@@ -13,6 +13,14 @@ public class App {
 				bearing(48.85845, 2.38548, 48.89388, 2.24014));
 		System.out.printf("From 9 r. cx faubin to 2 honegger: %f\n",
 				bearing(48.85845, 2.38548, 48.72899, 2.57943));
+		
+		// 99, rue de reuilly, paris : 48.8437972, 2.3909771
+		System.out.printf("From 9 r. cx faubin to 99 reuilly: %f\n",
+				bearing(48.85845, 2.38548, 48.8437972, 2.3909771));
+
+		// 5, rue Henri Barbusse, 94800, Villejuif : 48.8032656,2.3659649
+		System.out.printf("From 9 r. cx faubin to 5 barbusse: %f\n",
+				bearing(48.85845, 2.38548, 48.8032656, 2.3659649));
 
 		// From Osaka to Bagdad
 		System.out.printf("From Osaka to Bagdad: %f\n",
